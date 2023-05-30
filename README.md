@@ -2,7 +2,7 @@ SteamedWindows - A version of Windows 10 for the Steam Deck
 
 Installation:
 
-Download the .ISO file from Releases and burn it to a flash drive using Rufus. 
+Download the .ISO file from [here](https://redprez.com/Downloads/SteamDeck/ISOFiles/SteamedWindows1.iso). and burn it to a flash drive using Rufus. 
 
 Plug the flash drive into the Steam Deck VIA the dock or using a USB-C to USB adapter. 
 
